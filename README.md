@@ -49,7 +49,7 @@ This project is a **Gradio-based web interface** for generating images from text
 This project is open-source under the MIT License.
 
 ## Author
-Developed by **[Your Name]**. Feel free to contribute and enhance the project!
+Developed by **Meruva Peddababu**. Feel free to contribute and enhance the project!
 
 ---
 🚀 **Happy Image Generating!** 🚀
