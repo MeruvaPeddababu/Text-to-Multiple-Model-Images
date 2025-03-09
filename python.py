@@ -26,8 +26,8 @@ MODELS = {
     "Flux-Midjourney-Mix2-LoRA": "strangerzonehf/Flux-Midjourney-Mix2-LoRA"
 }
 
-# Hugging Face API token
-API_KEY = "secret API token"
+# Hugging Face API token or "stored .env file also"
+API_KEY = "secret API token" 
 
 def generate_image(prompt, model_name):
     """Generates an image from the given text prompt using the selected model."""
