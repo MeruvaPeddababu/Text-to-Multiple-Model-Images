@@ -4,7 +4,7 @@
 ## Overview
 This project is a **Gradio-based web interface** for generating images from text prompts using various Hugging Face models. Users can select a model from a dropdown menu or generate images from all available models at once.
 # Code file 
-## **https://colab.research.google.com/drive/1TyUaQt1aasgAG5sv0YYx_efI70AF4U6C#scrollTo=eBVS__387236**
+## **https://colab.research.google.com/drive/1ZGM1bJ4IBAtBFDEEmg4yvi2gEPi5O8YF?authuser=1#scrollTo=ib39RckqtteU**
 ## Features
 - 🔹 **Supports 5 Text-to-Image Models**
 - 🔹 **Dropdown Menu** for Model Selection
@@ -40,11 +40,10 @@ This project is a **Gradio-based web interface** for generating images from text
 - Click on an image to download it.
 
 ## Models Used
-- **FLUX.1-schnell** (`black-forest-labs/FLUX.1-schnell`)
-- **FLUX.1-dev** (`black-forest-labs/FLUX.1-dev`)
-- **Stable Diffusion 3.5** (`stabilityai/stable-diffusion-3.5-large`)
-- **CogView4-6B** (`THUDM/CogView4-6B`)
-- **Flux-Midjourney-Mix2-LoRA** (`strangerzonehf/Flux-Midjourney-Mix2-LoRA`)
+- **Stable Diffusion XL** (`stable diffusion XL`)
+- **Stable Diffusion v1.4** (`Stable Diffusion v1.4`)
+- **Stable Diffusion v2.1 (DPM-Solver)** (`Stable Diffusion v2.1 (DPM-Solver)`)
+
 
 ## License
 This project is open-source under the MIT License.
