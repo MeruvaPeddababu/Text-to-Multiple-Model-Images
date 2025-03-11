@@ -4,4 +4,9 @@ huggingface_hub
 pillow
 diffusers
 transformers
-
+invisible_watermark 
+accelerate 
+safetensors
+diffusers 
+scipy
+!pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
